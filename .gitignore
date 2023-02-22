@@ -1,0 +1,4 @@
+/**/.env
+/docker.env
+/media/profile_pics/**.*
+/**/__pycache__
